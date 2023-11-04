@@ -1,5 +1,5 @@
 Random Jokes Generator
-This project is a simple web application that generates random jokes for users. It consists of HTML, CSS, and JavaScript files to display jokes and allow users to interact by reloading jokes or reacting by either clicking the thumb-up or thumb-down.
+This project is a simple web application that generates random jokes for users. It consists of HTML, CSS, and JavaScript files to display jokes and allow users to interact by reloading jokes and reacting by either clicking the thumb-up or thumb-down.
 
 Files Included
 index.html: Contains the structure of the web page, including the layout and elements for displaying jokes.
@@ -15,12 +15,12 @@ It includes a button to generate a new joke, placeholders for displaying jokes a
 
 CSS (style.css)
 Holds the styling information for the HTML elements.
-Defines the appearance of various elements in the web page, from the font size to alignment.
+Defines the appearance of various elements in the web page, from the font size to alignment, using different styling colors and positioning of the elements on the page.
 The main objective of this file is to enhance the appearance of the content making it easy for users to relate to the content.
 
 JavaScript (index.js)
 Manages the functionality of the webpage.
-Fetches random jokes from an API and updates the joke displayed on the page.
+Fetches random jokes from a public API and updates the joke displayed on the page.
 Handles user interactions such as clicking the 'Laugh Again' button to fetch a new joke.
 Handles either likes or dislikes on the jokes and updates the file.
 
