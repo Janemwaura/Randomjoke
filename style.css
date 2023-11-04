@@ -51,3 +51,11 @@ button{
    cursor: pointer;
    }
 
+.post-rating-count{
+    text-size-adjust: 2px;
+    text-align: center;
+}
+.post-ratings-container{
+    display: flex;
+    justify-content: end;
+}
