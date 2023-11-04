@@ -52,10 +52,25 @@ button{
    }
 
 .post-rating-count{
-    text-size-adjust: 2px;
+    font-size: 14px;
     text-align: center;
 }
 .post-ratings-container{
     display: flex;
     justify-content: end;
+    padding: 12px 0;
+
+}
+.post-ratings{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.post-ratings:not(:last-child){
+    margin-right: 12px;
+}
+.post-ratings-button{
+    margin-right: 6px;
+    cursor: pointer;
+    color: #213F99;
 }
