@@ -1,3 +1,6 @@
+Project name: Random Jokes Generator
+Author: Jane Wairimu Mwaura
+
 Random Jokes Generator
 This project is a simple web application that generates random jokes for users. It consists of HTML, CSS, and JavaScript files to display jokes and allow users to interact by reloading jokes and reacting by either clicking the thumb-up or thumb-down.
 
